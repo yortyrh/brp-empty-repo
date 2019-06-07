@@ -1,1 +1,1 @@
-# brp-empty-repo
+# Empty Repo
